@@ -1,4 +1,5 @@
 import jenkins.model.Jenkins
+
 def jobDSL="""
 node {
   stage("test"){
@@ -26,4 +27,5 @@ hudson.triggers.TimerTrigger newCron = new hudson.triggers.TimerTrigger(spec);
 newCron.start(job, true);
 job.addTrigger(newCron);
 job.save();
+
 Jenkins.instance.reload()
