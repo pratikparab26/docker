@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a74f365-1e5e-462b-affd-497b52defe26" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld_job.groovy" afterPath="$PROJECT_DIR$/HelloWorld_job.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins.txt" afterPath="$PROJECT_DIR$/plugins.txt" />
     </list>
     <ignored path="docker.iws" />
@@ -35,17 +36,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorld_job.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HelloWorld_job.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloWorld_job.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="-1821">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
@@ -68,8 +69,8 @@
       <file leaf-file-name="plugins.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="761">
-              <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -92,8 +93,8 @@
         <option value="$PROJECT_DIR$/jenkins.sh" />
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/install-plugins.sh" />
-        <option value="$PROJECT_DIR$/HelloWorld_job.groovy" />
         <option value="$PROJECT_DIR$/plugins.txt" />
+        <option value="$PROJECT_DIR$/HelloWorld_job.groovy" />
       </list>
     </option>
   </component>
@@ -775,7 +776,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558279758766</updated>
       <workItem from="1558279760579" duration="2126000" />
-      <workItem from="1558282842272" duration="7986000" />
+      <workItem from="1558282842272" duration="10138000" />
     </task>
     <task id="LOCAL-00001" summary="added_jenkins job">
       <created>1558280424074</created>
@@ -826,11 +827,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558294956161</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added_jenkins job">
+      <created>1558295829174</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558295829174</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10112000" />
+    <option name="totallyTimeSpent" value="12264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1067,26 +1075,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld_job.groovy">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="202">
+          <caret line="82" column="72" selection-start-line="82" selection-start-column="72" selection-end-line="82" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/HelloWorld_job.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="82" column="72" selection-start-line="82" selection-start-column="72" selection-end-line="82" selection-end-column="72" />
+        <state relative-caret-position="-1821">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding />
         </state>
       </provider>
