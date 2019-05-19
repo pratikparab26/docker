@@ -15,7 +15,7 @@ import jenkins.scm.impl.trait.RegexSCMSourceFilterTrait
 import org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProjectFactory
 
 // Pull the name of the instance from environment
-def name = System.getenv('JENKINS_NAME')
+def name = "data"
 def displayName = name.capitalize()
 def owner = name.toUpperCase()
 
