@@ -49,6 +49,7 @@ gitlab-oauth:latest
 gitlab-plugin:latest
 google-login:latest
 gradle:latest
+groovy:latest
 gravatar:latest
 handlebars:latest
 icon-shim:latest
