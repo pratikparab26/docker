@@ -1,6 +1,7 @@
 FROM openjdk:8-jdk-stretch
 
-RUN apt-get update && apt-get upgrade -y && apt-get install -y git curl && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get upgrade -y && apt-get install -y git curl && rm -rf /var/lib/apt/lists/* && apt-get install python-pip -y
+RUN pip install jenkins-job-builder
 
 ARG user=jenkins
 ARG group=jenkins
